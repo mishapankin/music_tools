@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[3097,["/music_tools/_next/static/chunks/33074d3ff5d0cd2d.js","/music_tools/_next/static/chunks/c4d90098b4abc498.js"],"default"]
 3:I[99299,["/music_tools/_next/static/chunks/33074d3ff5d0cd2d.js","/music_tools/_next/static/chunks/c4d90098b4abc498.js"],"default"]
-0:{"buildId":"kjTzE5B-ergewRSg73WJr","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"LwYxNwjJOeYmNl4cBOoob","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

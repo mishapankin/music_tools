@@ -3,7 +3,7 @@
 3:I[44048,["/music_tools/_next/static/chunks/3bbddf2dd13350b3.js","/music_tools/_next/static/chunks/d0dcd61910a600db.js"],"default"]
 6:I[36345,["/music_tools/_next/static/chunks/33074d3ff5d0cd2d.js","/music_tools/_next/static/chunks/c4d90098b4abc498.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"kjTzE5B-ergewRSg73WJr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/music_tools/_next/static/chunks/3bbddf2dd13350b3.js","async":true}],["$","script","script-1",{"src":"/music_tools/_next/static/chunks/d0dcd61910a600db.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"LwYxNwjJOeYmNl4cBOoob","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/music_tools/_next/static/chunks/3bbddf2dd13350b3.js","async":true}],["$","script","script-1",{"src":"/music_tools/_next/static/chunks/d0dcd61910a600db.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
