@@ -59,7 +59,7 @@ type WorkerPending = {
 };
 
 const DEFAULT_TEMPO_BPM = 120;
-const PIANO_SAMPLES_BASE_URL = "/piano-samples/";
+const PIANO_SAMPLES_BASE_URL = process.env.NEXT_PUBLIC_BASE_PATH + "/piano-samples/";
 const VISUALIZER_CACHE_DB = "visualizer-render-cache";
 const VISUALIZER_CACHE_STORE = "renders";
 const VISUALIZER_CACHE_VERSION = 1;
